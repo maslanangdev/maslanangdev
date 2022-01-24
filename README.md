@@ -1,4 +1,4 @@
-Hi, I'm @maslanangdev, but you can call me Lun
+Hi, I'm @maslanangdev also known as Mas RJ95, but you can call me Lun
 
 I'm interested in Python language, gamedev, and daily app development
 
