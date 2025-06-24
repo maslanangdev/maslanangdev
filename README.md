@@ -4,6 +4,8 @@ I am using variety of programming language such as C, C++, C#, Java, Javascript,
 
 but personally and professionally I use Python more
 
+somewhat I also working on a game (kind of)
+
 <!---
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width=50px/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width=50px />
 --->
